@@ -34,6 +34,12 @@
         <mxCell id="L_eO8nsGvwJQFYSEARNV-14" value="中国省会城市监测与决策平台" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="339" y="235" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="L_eO8nsGvwJQFYSEARNV-15" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="280" y="320" as="sourcePoint" />
+            <mxPoint x="380" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
