@@ -10,11 +10,11 @@
         <mxCell id="i_NV5_FiOIl8sQyDsMUX-2" value="空气质量监测站" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="550" width="116" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="i_NV5_FiOIl8sQyDsMUX-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i_NV5_FiOIl8sQyDsMUX-3" value="空气质量监测数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="520" width="116" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i_NV5_FiOIl8sQyDsMUX-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="400" width="116" height="40" as="geometry" />
+          <mxGeometry x="570" y="480" width="116" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
