@@ -14,7 +14,7 @@
           <mxGeometry x="380" y="420" width="116" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i_NV5_FiOIl8sQyDsMUX-4" value="用户信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="320" width="116" height="40" as="geometry" />
+          <mxGeometry x="380" y="330" width="116" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i_NV5_FiOIl8sQyDsMUX-5" value="更新或删除" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="233" y="420" width="90" height="60" as="geometry" />
@@ -28,7 +28,7 @@
         <mxCell id="i_NV5_FiOIl8sQyDsMUX-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="i_NV5_FiOIl8sQyDsMUX-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="277.71" y="530" as="sourcePoint" />
-            <mxPoint x="277.71" y="460" as="targetPoint" />
+            <mxPoint x="278" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="i_NV5_FiOIl8sQyDsMUX-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="i_NV5_FiOIl8sQyDsMUX-16" target="i_NV5_FiOIl8sQyDsMUX-3">
