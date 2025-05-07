@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="i_NV5_FiOIl8sQyDsMUX-1" value="中国省会城市" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="320" width="116" height="40" as="geometry" />
+          <mxGeometry x="220" y="330" width="116" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i_NV5_FiOIl8sQyDsMUX-2" value="空气质量监测站" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="525" width="116" height="40" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="390" y="320" width="116" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i_NV5_FiOIl8sQyDsMUX-5" value="更新或删除" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="233" y="400" width="90" height="60" as="geometry" />
+          <mxGeometry x="233" y="420" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i_NV5_FiOIl8sQyDsMUX-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="i_NV5_FiOIl8sQyDsMUX-5" target="i_NV5_FiOIl8sQyDsMUX-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
