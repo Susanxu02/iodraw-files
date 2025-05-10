@@ -19,7 +19,7 @@
         <mxCell id="kdDK6eDdJcKwjpRcBYmo-11" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="300" y="510" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kdDK6eDdJcKwjpRcBYmo-12" value="题目管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="kdDK6eDdJcKwjpRcBYmo-12" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="530" y="490" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kdDK6eDdJcKwjpRcBYmo-17" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -190,6 +190,9 @@
         </mxCell>
         <mxCell id="kdDK6eDdJcKwjpRcBYmo-87" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="560" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kdDK6eDdJcKwjpRcBYmo-88" value="题目管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="635" y="488" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
