@@ -192,7 +192,7 @@
           <mxGeometry x="60" y="560" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kdDK6eDdJcKwjpRcBYmo-88" value="题目管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="635" y="488" width="70" height="30" as="geometry" />
+          <mxGeometry x="540" y="540" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
