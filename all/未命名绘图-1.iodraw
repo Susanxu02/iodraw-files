@@ -80,21 +80,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kdDK6eDdJcKwjpRcBYmo-28" value="动态管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="610" width="90" height="50" as="geometry" />
+          <mxGeometry x="365" y="615" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kdDK6eDdJcKwjpRcBYmo-29" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="kdDK6eDdJcKwjpRcBYmo-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="355" y="560" as="sourcePoint" />
-            <mxPoint x="320" y="650" as="targetPoint" />
+            <mxPoint x="460" y="565" as="sourcePoint" />
+            <mxPoint x="425" y="655" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kdDK6eDdJcKwjpRcBYmo-30" value="删除动态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="710" width="90" height="50" as="geometry" />
+          <mxGeometry x="315" y="715" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kdDK6eDdJcKwjpRcBYmo-31" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kdDK6eDdJcKwjpRcBYmo-28" target="kdDK6eDdJcKwjpRcBYmo-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="355" y="580" as="sourcePoint" />
-            <mxPoint x="330" y="660" as="targetPoint" />
+            <mxPoint x="460" y="585" as="sourcePoint" />
+            <mxPoint x="435" y="665" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
