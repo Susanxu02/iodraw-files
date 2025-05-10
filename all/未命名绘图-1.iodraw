@@ -155,9 +155,6 @@
         <mxCell id="kdDK6eDdJcKwjpRcBYmo-69" value="删除评论" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="405" y="818" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kdDK6eDdJcKwjpRcBYmo-70" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;社区管理&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="540" width="70" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
