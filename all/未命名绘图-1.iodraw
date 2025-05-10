@@ -7,13 +7,8 @@
         <mxCell id="mlCFZJB9mODXhoFVgxXQ-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="390" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kdDK6eDdJcKwjpRcBYmo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="mlCFZJB9mODXhoFVgxXQ-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mlCFZJB9mODXhoFVgxXQ-2" value="登录" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="260" width="120" height="80" as="geometry" />
+          <mxGeometry x="460" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mlCFZJB9mODXhoFVgxXQ-3" value="面板数据" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="380" width="120" height="80" as="geometry" />
