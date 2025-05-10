@@ -159,13 +159,13 @@
           <mxGeometry x="465" y="708" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kdDK6eDdJcKwjpRcBYmo-76" value="修改题目" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="535" y="698" width="70" height="30" as="geometry" />
+          <mxGeometry x="550" y="700" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kdDK6eDdJcKwjpRcBYmo-77" value="标签管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="665" y="650" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kdDK6eDdJcKwjpRcBYmo-79" value="增加标签" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="565" y="798" width="70" height="30" as="geometry" />
+          <mxGeometry x="565" y="820" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kdDK6eDdJcKwjpRcBYmo-80" value="删除标签" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="710" y="798" width="70" height="30" as="geometry" />
@@ -183,7 +183,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kdDK6eDdJcKwjpRcBYmo-85" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="475" y="870" width="90" height="30" as="geometry" />
+          <mxGeometry x="620" y="710" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
