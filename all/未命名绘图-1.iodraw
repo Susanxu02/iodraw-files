@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kdDK6eDdJcKwjpRcBYmo-11" value="社区管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="500" width="90" height="50" as="geometry" />
+          <mxGeometry x="290" y="510" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kdDK6eDdJcKwjpRcBYmo-12" value="题目管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="520" width="90" height="50" as="geometry" />
@@ -53,10 +53,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kdDK6eDdJcKwjpRcBYmo-17" value="动态管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="640" width="90" height="50" as="geometry" />
+          <mxGeometry x="240" y="640" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kdDK6eDdJcKwjpRcBYmo-22" value="社区管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="640" width="90" height="50" as="geometry" />
+          <mxGeometry x="500" y="640" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kdDK6eDdJcKwjpRcBYmo-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" target="kdDK6eDdJcKwjpRcBYmo-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -64,7 +64,7 @@
             <mxPoint x="554.5" y="651" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kdDK6eDdJcKwjpRcBYmo-24" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" target="kdDK6eDdJcKwjpRcBYmo-17">
+        <mxCell id="kdDK6eDdJcKwjpRcBYmo-24" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kdDK6eDdJcKwjpRcBYmo-11" target="kdDK6eDdJcKwjpRcBYmo-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="269.5" y="548" as="sourcePoint" />
             <mxPoint x="310" y="640" as="targetPoint" />
