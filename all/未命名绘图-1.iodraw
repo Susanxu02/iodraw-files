@@ -10,6 +10,11 @@
         <mxCell id="GpmnzZOCzXKUbZZvQYWR-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="300" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GpmnzZOCzXKUbZZvQYWR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GpmnzZOCzXKUbZZvQYWR-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GpmnzZOCzXKUbZZvQYWR-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="370" width="30" height="60" as="geometry" />
         </mxCell>
