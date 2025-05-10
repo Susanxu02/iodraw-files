@@ -167,6 +167,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="530" as="sourcePoint" />
             <mxPoint x="520" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="510" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kdDK6eDdJcKwjpRcBYmo-55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
