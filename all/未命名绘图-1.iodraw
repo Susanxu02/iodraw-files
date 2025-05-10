@@ -61,7 +61,7 @@
         <mxCell id="kdDK6eDdJcKwjpRcBYmo-17" value="社区管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="640" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kdDK6eDdJcKwjpRcBYmo-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0.575;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.427;exitY=-0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kdDK6eDdJcKwjpRcBYmo-22" target="kdDK6eDdJcKwjpRcBYmo-12">
+        <mxCell id="kdDK6eDdJcKwjpRcBYmo-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0.575;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.427;exitY=-0.05;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="kdDK6eDdJcKwjpRcBYmo-22" target="kdDK6eDdJcKwjpRcBYmo-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="650" as="sourcePoint" />
             <mxPoint x="330" y="480" as="targetPoint" />
