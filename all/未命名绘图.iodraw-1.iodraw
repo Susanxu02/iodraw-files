@@ -10,9 +10,6 @@
         <mxCell id="r2J8DPsQ-_RTRZ2b-uIY-8" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;奖品管理&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="190" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r2J8DPsQ-_RTRZ2b-uIY-11" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="320" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="r2J8DPsQ-_RTRZ2b-uIY-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.067;entryY=0.781;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="r2J8DPsQ-_RTRZ2b-uIY-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="290" as="sourcePoint" />
@@ -25,14 +22,8 @@
             <mxPoint x="415.32000000000005" y="271.9" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r2J8DPsQ-_RTRZ2b-uIY-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="r2J8DPsQ-_RTRZ2b-uIY-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="310" as="sourcePoint" />
-            <mxPoint x="434" y="233" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="r2J8DPsQ-_RTRZ2b-uIY-15" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;策略营销&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="260" width="60" height="30" as="geometry" />
+          <mxGeometry x="414" y="280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
