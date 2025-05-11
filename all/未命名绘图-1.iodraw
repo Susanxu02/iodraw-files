@@ -4,14 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Qex3Yq-eg0NP0xwtm6oM-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qex3Yq-eg0NP0xwtm6oM-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="240" width="150" height="310" as="geometry" />
         </mxCell>
         <mxCell id="Qex3Yq-eg0NP0xwtm6oM-2" value="表现层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="260" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Qex3Yq-eg0NP0xwtm6oM-3" value="应用逻辑层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="360" width="110" height="50" as="geometry" />
+          <mxGeometry x="160" y="370" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Qex3Yq-eg0NP0xwtm6oM-4" value="数据访问层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="480" width="110" height="50" as="geometry" />
