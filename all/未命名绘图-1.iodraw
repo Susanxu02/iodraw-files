@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3sVH61aMdjqfvS_M31tV-16" value="系统框图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="400" y="118" width="80" height="30" as="geometry" />
+        <mxCell id="3sVH61aMdjqfvS_M31tV-16" value="系统框图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="385" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3sVH61aMdjqfvS_M31tV-17" value="矩阵键盘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="160" width="100" height="40" as="geometry" />
@@ -80,6 +80,84 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="550" y="351" as="sourcePoint" />
             <mxPoint x="630" y="349" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3sVH61aMdjqfvS_M31tV-35" value="系统框图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="955" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3sVH61aMdjqfvS_M31tV-36" value="矩阵键盘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="540" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3sVH61aMdjqfvS_M31tV-37" value="电位旋钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="625" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3sVH61aMdjqfvS_M31tV-38" value="功能按键组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="710" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3sVH61aMdjqfvS_M31tV-39" value="LCD显示模组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="540" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3sVH61aMdjqfvS_M31tV-40" value="LED指示灯组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="625" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3sVH61aMdjqfvS_M31tV-41" value="扬声器驱动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="710" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3sVH61aMdjqfvS_M31tV-42" value="EERPROM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="965" y="830" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3sVH61aMdjqfvS_M31tV-43" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="3sVH61aMdjqfvS_M31tV-42" target="3sVH61aMdjqfvS_M31tV-45">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="970" y="860" as="sourcePoint" />
+            <mxPoint x="1065" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3sVH61aMdjqfvS_M31tV-44" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="3sVH61aMdjqfvS_M31tV-45">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="980" y="730" as="sourcePoint" />
+            <mxPoint x="1080" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3sVH61aMdjqfvS_M31tV-45" value="STC89C51" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="910" y="540" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="3sVH61aMdjqfvS_M31tV-46" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3sVH61aMdjqfvS_M31tV-36" target="3sVH61aMdjqfvS_M31tV-45">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="860" y="520" as="sourcePoint" />
+            <mxPoint x="960" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3sVH61aMdjqfvS_M31tV-47" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="830" y="642" as="sourcePoint" />
+            <mxPoint x="910" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="870" y="642" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3sVH61aMdjqfvS_M31tV-48" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="830" y="731" as="sourcePoint" />
+            <mxPoint x="910" y="729" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3sVH61aMdjqfvS_M31tV-49" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1120" y="561" as="sourcePoint" />
+            <mxPoint x="1200" y="559" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3sVH61aMdjqfvS_M31tV-50" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1120" y="646" as="sourcePoint" />
+            <mxPoint x="1200" y="644" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3sVH61aMdjqfvS_M31tV-51" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1120" y="731" as="sourcePoint" />
+            <mxPoint x="1200" y="729" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
