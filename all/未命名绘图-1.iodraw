@@ -49,9 +49,6 @@
         <mxCell id="Qex3Yq-eg0NP0xwtm6oM-16" value="SQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="490" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qex3Yq-eg0NP0xwtm6oM-17" value="chrome&lt;div&gt;界面显示&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="485" width="70" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
