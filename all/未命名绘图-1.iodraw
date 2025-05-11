@@ -7,7 +7,7 @@
         <mxCell id="332qHNmiU-eCizYEdJbE-1" value="中国省会城市" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="230" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="332qHNmiU-eCizYEdJbE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="332qHNmiU-eCizYEdJbE-2" target="332qHNmiU-eCizYEdJbE-3">
+        <mxCell id="332qHNmiU-eCizYEdJbE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="332qHNmiU-eCizYEdJbE-2" target="332qHNmiU-eCizYEdJbE-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="332qHNmiU-eCizYEdJbE-2" value="空气质量监测站" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
