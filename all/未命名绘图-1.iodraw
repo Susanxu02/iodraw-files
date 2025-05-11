@@ -13,7 +13,7 @@
         <mxCell id="3sVH61aMdjqfvS_M31tV-17" value="矩阵键盘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="160" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3sVH61aMdjqfvS_M31tV-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3sVH61aMdjqfvS_M31tV-18" value="电位旋钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="245" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3sVH61aMdjqfvS_M31tV-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
