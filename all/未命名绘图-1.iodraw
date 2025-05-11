@@ -25,6 +25,9 @@
         <mxCell id="332qHNmiU-eCizYEdJbE-5" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="467.5" width="120" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="332qHNmiU-eCizYEdJbE-9" value="空气质量监测数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="320" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
