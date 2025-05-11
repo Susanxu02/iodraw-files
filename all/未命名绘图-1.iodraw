@@ -31,6 +31,12 @@
         <mxCell id="3sVH61aMdjqfvS_M31tV-23" value="EERPROM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="430" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="3sVH61aMdjqfvS_M31tV-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="3sVH61aMdjqfvS_M31tV-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="320" as="sourcePoint" />
+            <mxPoint x="490" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
