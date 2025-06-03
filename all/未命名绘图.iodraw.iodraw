@@ -16,8 +16,11 @@
             <mxPoint x="310" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f-7JbqOE-BCP5cIW3PVR-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="255" y="318" width="50" height="30" as="geometry" />
+        <mxCell id="f-7JbqOE-BCP5cIW3PVR-4" value="系统用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="318" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f-7JbqOE-BCP5cIW3PVR-5" value="系统用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="328" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
