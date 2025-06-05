@@ -22,6 +22,12 @@
         <mxCell id="f-7JbqOE-BCP5cIW3PVR-5" value="学生" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="460" y="310" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="M3Ylf3xAvBAMXUIf5LmM-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="480" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Ylf3xAvBAMXUIf5LmM-2" value="学生" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="320" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
