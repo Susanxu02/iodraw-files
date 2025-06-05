@@ -23,7 +23,7 @@
           <mxGeometry x="310" y="450" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M3Ylf3xAvBAMXUIf5LmM-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="200" y="390" width="30" height="60" as="geometry" />
+          <mxGeometry x="210" y="390" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M3Ylf3xAvBAMXUIf5LmM-2" value="学生" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="190" y="450" width="50" height="30" as="geometry" />
