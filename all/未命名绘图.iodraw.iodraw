@@ -8,7 +8,7 @@
           <mxGeometry x="199" y="239" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VDuMdhdgM6_fcJbV_xQW-2" value="STM32F103" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="359" y="298" width="139" height="49" as="geometry" />
+          <mxGeometry x="359" y="80" width="139" height="290" as="geometry" />
         </mxCell>
         <mxCell id="VDuMdhdgM6_fcJbV_xQW-3" value="OLED屏幕" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="180" y="337" width="129" height="49" as="geometry" />
