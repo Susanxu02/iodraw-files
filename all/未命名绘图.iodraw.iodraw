@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VDuMdhdgM6_fcJbV_xQW-1" value="舵机" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="199" y="239" width="92" height="49" as="geometry" />
+          <mxGeometry x="140" y="100" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VDuMdhdgM6_fcJbV_xQW-2" value="STM32F103" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="359" y="80" width="139" height="290" as="geometry" />
+          <mxGeometry x="359" y="80" width="201" height="290" as="geometry" />
         </mxCell>
         <mxCell id="VDuMdhdgM6_fcJbV_xQW-3" value="OLED屏幕" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="180" y="337" width="129" height="49" as="geometry" />
@@ -20,16 +20,16 @@
           <mxGeometry x="375" y="446" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VDuMdhdgM6_fcJbV_xQW-6" value="DHT11" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="557" y="150" width="106" height="49" as="geometry" />
+          <mxGeometry x="712" y="91" width="106" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VDuMdhdgM6_fcJbV_xQW-7" value="BH1750" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="553" y="249" width="113" height="49" as="geometry" />
+          <mxGeometry x="708" y="190" width="113" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VDuMdhdgM6_fcJbV_xQW-8" value="紫外线灯" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="548" y="347" width="124" height="43" as="geometry" />
+          <mxGeometry x="703" y="288" width="124" height="43" as="geometry" />
         </mxCell>
         <mxCell id="VDuMdhdgM6_fcJbV_xQW-9" value="风扇" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="564" y="446" width="92" height="49" as="geometry" />
+          <mxGeometry x="719" y="387" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VDuMdhdgM6_fcJbV_xQW-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.22;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="VDuMdhdgM6_fcJbV_xQW-1" target="VDuMdhdgM6_fcJbV_xQW-2">
           <mxGeometry relative="1" as="geometry">
