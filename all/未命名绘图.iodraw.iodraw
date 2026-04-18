@@ -26,7 +26,7 @@
           <mxGeometry x="393" y="119" width="113" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VDuMdhdgM6_fcJbV_xQW-8" value="紫外线灯" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="388" y="217" width="124" height="49" as="geometry" />
+          <mxGeometry x="388" y="217" width="124" height="43" as="geometry" />
         </mxCell>
         <mxCell id="VDuMdhdgM6_fcJbV_xQW-9" value="风扇" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="404" y="316" width="92" height="49" as="geometry" />
